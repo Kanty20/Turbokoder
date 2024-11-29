@@ -16,6 +16,7 @@ Projekt został napisany na płytkę Xilinx Artix7 AC701, której dokumentacja j
 - koder - w którym jest koder dla 16 i 1200 bitów
 - dekoder - testowy dekoder do nauki  
 - dekoder2 - docelowy dekoder który z 64 bitów dekoduje do 16
+- xdc 
 
 ### central
 Jest to główny plik który łączy ze sobą RX i TX. W zasadzie przede wszystkim ma za zadanie przesyłać jakoś wartości, ponieważ na wejściu/wyjściu może byc maksymalnie 8 bitów, a prof. wymaga więcej informacji. W tym pliku są wszystkie komponenty których używam do wykonywania działań. 
@@ -40,6 +41,9 @@ Pierwszy dekoder żeby zobaczyc jak to działa, z 10 bitów schodzi do 5, strict
 
 ### dekoder2
 Dekoduje poprawnie z 64 bitów na 16. Na tej samej zasadzie można zrobić dla większej ilości bitów np. 4800 bo będzie to działać tak samo, tylko długości wektorów się zmienią.
+
+### xdc
+plik w którym mam odpowiendie wyjścia/wejścia przypisane
 
 ## Co tu jest (Matlab):
 - matilab - najbardziej ogólny i dokładny plik,
