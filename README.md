@@ -16,4 +16,5 @@ Dodatkowo przesyłam skrypt z matlaba żeby pamiętać jak się robiło dekoder 
 ## Co tu jest (Matlab):
 - matilab - najbardziej ogólny i dokładny plik,
 - matilab16 - skupiony konkretnie na 16 bitow, koduje i dekoduje na 64 bity
+- dekoder - w sumie nawet nie pamietam
 - 
