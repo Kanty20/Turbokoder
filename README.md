@@ -18,6 +18,6 @@ Dodatkowo przesyłam skrypt z matlaba żeby pamiętać jak się robiło dekoder 
 - matilab16 - skupiony konkretnie na 16 bitow, koduje i dekoduje na 64 bity
 - dekoder - w sumie nawet nie pamietam
 
-## Co tu jest:
+## Co tu jest (Literatura):
 - dodałam jeszcze literature od prof. Kabacika- dwie rozprawy doktorskie
 - czołowy plik- L09-viterbi, z którego korzystano do wypełnienia tego zadania. W przypadku dekodera korzystano z wersji 'hard', a nie 'soft'
