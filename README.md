@@ -36,7 +36,7 @@ Koder z 16 na 64 bity i z 1200 bitów na 4800. W razie czego trzeba odpowiednie 
 Pierwszy dekoder żeby zobaczyc jak to działa, z 10 bitów schodzi do 5, stricte do nauki.
 
 ### dekoder2
-Dekoduje poprawnie z 64 bitów na 16. Na tej samej zasadzie można zrobić dla większej ilości bitów bo będzie to działać tak samo, tylko długości wektorów się zmienią.
+Dekoduje poprawnie z 64 bitów na 16. Na tej samej zasadzie można zrobić dla większej ilości bitów np. 4800 bo będzie to działać tak samo, tylko długości wektorów się zmienią.
 
 ## Co tu jest (Matlab):
 - matilab - najbardziej ogólny i dokładny plik,
