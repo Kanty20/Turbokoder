@@ -1,0 +1,3 @@
+Dla zadanego kodu splotowego Wyner-Ash’a opracować koder, a następnie dekoder działający według algorytmu Viterbiego.
+Zasymulować efekt wystąpienia błędów transmisyjnych: pojedynczych, podwójnych, potrójnych, także błędów seryjnych.
+Przedstawić detekcję oraz korekcję błędów pojedynczych.
