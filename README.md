@@ -14,6 +14,11 @@ Dodatkowo przesyłam skrypt z matlaba żeby pamiętać jak się robiło dekoder 
 - dekoder - testowy dekoder do nauki  
 - dekoder2 - docelowy dekoder który z 64 bitów dekoduje do 16
 
+# central
+Jest to główny plik który łączy ze sobą RX i TX. W zasadzie przede wszystkim ma za zadanie przesyłać jakoś wartości, ponieważ na wejściu/wyjściu może byc maksymalnie 8 bitów, a prof. wymaga więcej informacji. W tym pliku są wszystkie komponenty których używam do wykonywania działań. 
+
+# 
+
 ## Co tu jest (Matlab):
 - matilab - najbardziej ogólny i dokładny plik,
 - matilab16 - skupiony konkretnie na 16 bitow, koduje i dekoduje na 64 bity
