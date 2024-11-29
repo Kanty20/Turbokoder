@@ -27,7 +27,16 @@ Odpowiada za wysyłanie wiadomości. inspiracją do tego kodu była strona : htt
 Odpowiada za odbieranie wiadomości. ta sama inspiracja
 
 ### filtr
+Dołożyłam dodatkowo żeby był 'przycisk' po to żeby monitorować kiedy będą wiadomości wysyłane. Z kolei gdy odbieram wartości to po prostu je odbieram bez przycisków ani bez niczego.
 
+### koder
+Koder z 16 na 64 bity i z 1200 bitów na 4800. W razie czego trzeba odpowiednie miejsca odkomentować, bo już nie chciałam tworzyć nowego komponentu.
+
+### dekoder
+Pierwszy dekoder żeby zobaczyc jak to działa, z 10 bitów schodzi do 5, stricte do nauki.
+
+### dekoder2
+Dekoduje poprawnie z 64 bitów na 16. Na tej samej zasadzie można zrobić dla większej ilości bitów bo będzie to działać tak samo, tylko długości wektorów się zmienią.
 
 ## Co tu jest (Matlab):
 - matilab - najbardziej ogólny i dokładny plik,
