@@ -1,4 +1,4 @@
-# Dzialajacy-dekoder
+# Turbokoder
 
 Jest to działający dekoder z pozostałymi plikami. Obecnie kod jest na etapie że sam koder i dekoder działa, teraz należy wszystko połączyć do central.
 Dekoder jest dla 64 bitów, w przypadku gdyby chcieć mieć 4800 bitów ilość outputsów będzie taka sama.
